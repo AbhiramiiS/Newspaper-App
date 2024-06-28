@@ -26,15 +26,15 @@ const View = () => {
                                         <tr>
                                             <th scope="row">1</th>
                                             <td>Chinchu</td>
-                                            <td>xxxxxxxx09</td>
-                                            <td>3 months</td>
+                                            <td>9856235418</td>
+                                            <td>6 months</td>
                                             <td>5 STAR</td>
                                             
                                         </tr>
                                         <tr>
                                             <th scope="row">2</th>
                                             <td>Gopikrishna</td>
-                                            <td>xxxxxxxx98</td>
+                                            <td>9876537438</td>
                                             <td>1 year</td>
                                             <td>5 STAR</td>
                                             
@@ -42,15 +42,15 @@ const View = () => {
                                         <tr>
                                             <th scope="row">3</th>
                                             <td>Adithya</td>
-                                            <td>xxxxx87xxx</td>
-                                            <td>3 months</td>
+                                            <td>9567832456</td>
+                                            <td>11 months</td>
                                             <td>5 STAR</td>
                                             
                                         </tr>
                                         <tr>
                                             <th scope="row">4</th>
                                             <td>Ananthakrishnan</td>
-                                            <td>xxxxxx87xx</td>
+                                            <td>9654328647</td>
                                             <td>1 year</td>
                                             <td>5 STAR</td>
                                             
@@ -58,39 +58,39 @@ const View = () => {
                                         <tr>
                                             <th scope="row">5</th>
                                             <td>Devipriya</td>
-                                            <td>xxxxxxx54x</td>
-                                            <td>1 year</td>
+                                            <td>7453620957</td>
+                                            <td>2year</td>
                                             <td>5 STAR</td>
                                         
                                         </tr>
                                         <tr>
                                             <th scope="row">6</th>
                                             <td>Sahad</td>
-                                            <td>xxxx65xxxx</td>
-                                            <td>3 months</td>
+                                            <td>8365435754</td>
+                                            <td>6months</td>
                                             <td>5 STAR</td>
                                             
                                         </tr>
                                         <tr>
                                             <th scope="row">7</th>
                                             <td>Parvathi</td>
-                                            <td>xxxxxxxx87</td>
-                                            <td>1 year</td>
+                                            <td>9543627817</td>
+                                            <td>2 year</td>
                                             <td>5 STAR</td>
                                             
                                         </tr>
                                         <tr>
                                             <th scope="row">8</th>
                                             <td>Ebin</td>
-                                            <td>xxxxxxxx98</td>
-                                            <td>3 months</td>
+                                            <td>8754764348</td>
+                                            <td>6months</td>
                                             <td>5 STAR</td>
                                             
                                         </tr>
                                         <tr>
                                             <th scope="row">9</th>
                                             <td>Abhi</td>
-                                            <td>xxxxxxxx34</td>
+                                            <td>7354278834</td>
                                             <td>1 year</td>
                                             <td>5 STAR</td>
                                            
@@ -98,8 +98,8 @@ const View = () => {
                                         <tr>
                                             <th scope="row">10</th>
                                             <td>Anisha</td>
-                                            <td>xxxxxxx54x</td>
-                                            <td>3 months</td>
+                                            <td>9753728654</td>
+                                            <td>10 months</td>
                                             <td>5 STAR</td>
                                            
                                         </tr>
